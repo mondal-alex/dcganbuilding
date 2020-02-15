@@ -1,2 +1,2 @@
 # dcganbuilding
-DCGAN Bundling Footprint Generator
+DCGAN Building Footprint Generator
